@@ -20,7 +20,7 @@ int main() {
 
 
 ---
-## Data Type: double and float
+## Data Type: double 
 
 ```c
 #include <stdio.h>
